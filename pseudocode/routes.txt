@@ -1,0 +1,18 @@
+New York, Boston, 215
+New York, Philadelphia, 95
+Boston, Philadelphia, 300
+Boston, Washington, 440
+Philadelphia, Washington, 140
+New York, Washington, 225
+Los Angeles, San Francisco, 380
+Los Angeles, Las Vegas, 270
+San Francisco, Las Vegas, 570
+Chicago, Detroit, 280
+Chicago, Indianapolis, 180
+Detroit, Indianapolis, 230
+Houston, Dallas, 240
+Houston, Austin, 165
+Dallas, Austin, 195
+Seattle, Portland, 175
+Seattle, San Francisco, 800
+Portland, San Francisco, 635
